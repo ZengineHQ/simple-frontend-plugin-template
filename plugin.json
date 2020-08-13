@@ -1,0 +1,10 @@
+{
+	"icon": "icon-spinner icon-spin",
+	"views": [
+		{
+			"type": "inline",
+			"location": "zn-plugin-form-top",
+			"src": "/index.html"
+		}
+	]
+}
